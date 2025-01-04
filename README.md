@@ -1,16 +1,7 @@
-# COVID 19 Data Visualisation (2020)
+# COVID-19 Data Analysis in Scotland and Globally (2020)
 
-#create summary using pivot table
-summary = pd.pivot_table(covid_df, values = ["ConfirmedCases", "Deaths", "Tests"], index = "Date", aggfunc = max)
-
-#mortality rate
-summary["Mortality Rate"] = summary["Deaths"]*100/summary["ConfirmedCases"]
-
-summary = summary.sort_values(by = "ConfirmedCases", ascending = False)
-
-#cmap = colour map 
-summary.style.background_gradient(cmap = "cubehelix" )
-
+# First Business Task: 
+Analyse COVID-19 data in Scotland during 2020 to identify key trends and patterns in dates, testing, confirmed cases, and deaths and evaluate the pandemic's progression. Additionally, leveraging vaccine data to assess the impact of vaccination efforts on public health and determine how vaccination status influenced COVID-19 trends.
 
 ## Image Preview
 ![image alt]()
