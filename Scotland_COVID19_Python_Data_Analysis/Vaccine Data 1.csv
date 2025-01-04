@@ -1,0 +1,505 @@
+﻿_id,Date,Country,Product,Population,Dose,NumberVaccinated,PercentCoverage,CumulativeNumberVaccinated,CumulativePercentCoverage,AgeBand
+1,2020-12-08,S92000003,AstraZeneca (Vaxzevria),,Dose 1,14,,14,,All vaccinations
+2,2020-12-08,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+3,2020-12-08,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+4,2020-12-08,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+5,2020-12-08,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+6,2020-12-08,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+7,2020-12-08,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,1934,,1934,,All vaccinations
+8,2020-12-08,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+9,2020-12-08,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+10,2020-12-08,S92000003,Total,,Dose 1,1948,,1948,,All vaccinations
+11,2020-12-08,S92000003,Total,4439078,Dose 1,1947,0.043860459,1947,0.043860459,18 years and over
+12,2020-12-08,S92000003,Total,2875396,Dose 1,1353,0.047054388,1353,0.047054388,40 years and over
+13,2020-12-08,S92000003,Total,4783352,Dose 1,1948,0.04072458,1948,0.04072458,12 years and over
+14,2020-12-08,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+15,2020-12-08,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+16,2020-12-08,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+17,2020-12-08,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+18,2020-12-08,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+19,2020-12-08,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+20,2020-12-08,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+21,2020-12-08,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+22,2020-12-09,S92000003,AstraZeneca (Vaxzevria),,Dose 1,6,,20,,All vaccinations
+23,2020-12-09,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+24,2020-12-09,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+25,2020-12-09,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+26,2020-12-09,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+27,2020-12-09,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+28,2020-12-09,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,3873,,5807,,All vaccinations
+29,2020-12-09,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+30,2020-12-09,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+31,2020-12-09,S92000003,Total,,Dose 1,3879,,5827,,All vaccinations
+32,2020-12-09,S92000003,Total,4439078,Dose 1,3879,0.087383011,5826,0.13124347,18 years and over
+33,2020-12-09,S92000003,Total,2875396,Dose 1,2581,0.089761549,3934,0.136815938,40 years and over
+34,2020-12-09,S92000003,Total,4783352,Dose 1,3879,0.08109376,5827,0.12181834,12 years and over
+35,2020-12-09,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+36,2020-12-09,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+37,2020-12-09,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+38,2020-12-09,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+39,2020-12-09,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+40,2020-12-09,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+41,2020-12-09,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+42,2020-12-09,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+43,2020-12-10,S92000003,AstraZeneca (Vaxzevria),,Dose 1,4,,24,,All vaccinations
+44,2020-12-10,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+45,2020-12-10,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+46,2020-12-10,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+47,2020-12-10,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+48,2020-12-10,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+49,2020-12-10,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,4962,,10769,,All vaccinations
+50,2020-12-10,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+51,2020-12-10,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+52,2020-12-10,S92000003,Total,,Dose 1,4966,,10793,,All vaccinations
+53,2020-12-10,S92000003,Total,4439078,Dose 1,4965,0.11184755,10791,0.24309102,18 years and over
+54,2020-12-10,S92000003,Total,2875396,Dose 1,3277,0.113966911,7211,0.250782849,40 years and over
+55,2020-12-10,S92000003,Total,4783352,Dose 1,4965,0.103797504,10792,0.225615844,12 years and over
+56,2020-12-10,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+57,2020-12-10,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+58,2020-12-10,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+59,2020-12-10,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+60,2020-12-10,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+61,2020-12-10,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+62,2020-12-10,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+63,2020-12-10,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+64,2020-12-11,S92000003,AstraZeneca (Vaxzevria),,Dose 1,6,,30,,All vaccinations
+65,2020-12-11,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+66,2020-12-11,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+67,2020-12-11,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+68,2020-12-11,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+69,2020-12-11,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+70,2020-12-11,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,5296,,16065,,All vaccinations
+71,2020-12-11,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+72,2020-12-11,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+73,2020-12-11,S92000003,Total,,Dose 1,5302,,16095,,All vaccinations
+74,2020-12-11,S92000003,Total,4439078,Dose 1,5300,0.119394162,16091,0.362485183,18 years and over
+75,2020-12-11,S92000003,Total,2875396,Dose 1,3487,0.121270253,10698,0.372053102,40 years and over
+76,2020-12-11,S92000003,Total,4783352,Dose 1,5302,0.110842773,16094,0.336458617,12 years and over
+77,2020-12-11,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+78,2020-12-11,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+79,2020-12-11,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+80,2020-12-11,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+81,2020-12-11,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+82,2020-12-11,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+83,2020-12-11,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+84,2020-12-11,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+85,2020-12-12,S92000003,AstraZeneca (Vaxzevria),,Dose 1,14,,44,,All vaccinations
+86,2020-12-12,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+87,2020-12-12,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+88,2020-12-12,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+89,2020-12-12,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+90,2020-12-12,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+91,2020-12-12,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,2134,,18199,,All vaccinations
+92,2020-12-12,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+93,2020-12-12,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+94,2020-12-12,S92000003,Total,,Dose 1,2148,,18243,,All vaccinations
+95,2020-12-12,S92000003,Total,4439078,Dose 1,2147,0.048365899,18238,0.410851082,18 years and over
+96,2020-12-12,S92000003,Total,2875396,Dose 1,1337,0.046497943,12035,0.418551045,40 years and over
+97,2020-12-12,S92000003,Total,4783352,Dose 1,2148,0.044905748,18242,0.381364365,12 years and over
+98,2020-12-12,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+99,2020-12-12,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+100,2020-12-12,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+101,2020-12-12,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+102,2020-12-12,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+103,2020-12-12,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+104,2020-12-12,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+105,2020-12-12,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+106,2020-12-13,S92000003,AstraZeneca (Vaxzevria),,Dose 1,9,,53,,All vaccinations
+107,2020-12-13,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+108,2020-12-13,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+109,2020-12-13,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+110,2020-12-13,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+111,2020-12-13,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+112,2020-12-13,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,1114,,19313,,All vaccinations
+113,2020-12-13,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+114,2020-12-13,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+115,2020-12-13,S92000003,Total,,Dose 1,1123,,19366,,All vaccinations
+116,2020-12-13,S92000003,Total,4439078,Dose 1,1123,0.025298046,19361,0.436149128,18 years and over
+117,2020-12-13,S92000003,Total,2875396,Dose 1,714,0.024831362,12749,0.443382407,40 years and over
+118,2020-12-13,S92000003,Total,4783352,Dose 1,1123,0.02347726,19365,0.404841626,12 years and over
+119,2020-12-13,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+120,2020-12-13,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+121,2020-12-13,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+122,2020-12-13,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+123,2020-12-13,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+124,2020-12-13,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+125,2020-12-13,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+126,2020-12-13,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+127,2020-12-14,S92000003,AstraZeneca (Vaxzevria),,Dose 1,15,,68,,All vaccinations
+128,2020-12-14,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+129,2020-12-14,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+130,2020-12-14,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+131,2020-12-14,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+132,2020-12-14,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+133,2020-12-14,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,5710,,25023,,All vaccinations
+134,2020-12-14,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+135,2020-12-14,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+136,2020-12-14,S92000003,Total,,Dose 1,5725,,25091,,All vaccinations
+137,2020-12-14,S92000003,Total,4439078,Dose 1,5724,0.128945695,25085,0.565094824,18 years and over
+138,2020-12-14,S92000003,Total,2875396,Dose 1,3906,0.135842159,16655,0.579224566,40 years and over
+139,2020-12-14,S92000003,Total,4783352,Dose 1,5725,0.119685944,25090,0.52452757,12 years and over
+140,2020-12-14,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+141,2020-12-14,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+142,2020-12-14,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+143,2020-12-14,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+144,2020-12-14,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+145,2020-12-14,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+146,2020-12-14,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+147,2020-12-14,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+148,2020-12-15,S92000003,AstraZeneca (Vaxzevria),,Dose 1,44,,112,,All vaccinations
+149,2020-12-15,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+150,2020-12-15,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+151,2020-12-15,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+152,2020-12-15,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+153,2020-12-15,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+154,2020-12-15,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,7391,,32414,,All vaccinations
+155,2020-12-15,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+156,2020-12-15,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+157,2020-12-15,S92000003,Total,,Dose 1,7435,,32526,,All vaccinations
+158,2020-12-15,S92000003,Total,4439078,Dose 1,7432,0.167422154,32517,0.732516978,18 years and over
+159,2020-12-15,S92000003,Total,2875396,Dose 1,5229,0.181853213,21884,0.761077779,40 years and over
+160,2020-12-15,S92000003,Total,4783352,Dose 1,7435,0.155434933,32525,0.679962503,12 years and over
+161,2020-12-15,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+162,2020-12-15,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+163,2020-12-15,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+164,2020-12-15,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+165,2020-12-15,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+166,2020-12-15,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+167,2020-12-15,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+168,2020-12-15,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+169,2020-12-16,S92000003,AstraZeneca (Vaxzevria),,Dose 1,21,,133,,All vaccinations
+170,2020-12-16,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+171,2020-12-16,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+172,2020-12-16,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+173,2020-12-16,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+174,2020-12-16,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+175,2020-12-16,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,7190,,39604,,All vaccinations
+176,2020-12-16,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+177,2020-12-16,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+178,2020-12-16,S92000003,Total,,Dose 1,7211,,39737,,All vaccinations
+179,2020-12-16,S92000003,Total,4439078,Dose 1,7207,0.162353534,39724,0.894870511,18 years and over
+180,2020-12-16,S92000003,Total,2875396,Dose 1,4921,0.171141644,26805,0.932219423,40 years and over
+181,2020-12-16,S92000003,Total,4783352,Dose 1,7211,0.150752025,39736,0.830714528,12 years and over
+182,2020-12-16,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+183,2020-12-16,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+184,2020-12-16,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+185,2020-12-16,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+186,2020-12-16,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+187,2020-12-16,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+188,2020-12-16,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+189,2020-12-16,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+190,2020-12-17,S92000003,AstraZeneca (Vaxzevria),,Dose 1,23,,156,,All vaccinations
+191,2020-12-17,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+192,2020-12-17,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+193,2020-12-17,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+194,2020-12-17,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+195,2020-12-17,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+196,2020-12-17,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,7149,,46753,,All vaccinations
+197,2020-12-17,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+198,2020-12-17,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+199,2020-12-17,S92000003,Total,,Dose 1,7172,,46909,,All vaccinations
+200,2020-12-17,S92000003,Total,4439078,Dose 1,7169,0.1614975,46893,1.056368012,18 years and over
+201,2020-12-17,S92000003,Total,2875396,Dose 1,5129,0.178375431,31934,1.110594854,40 years and over
+202,2020-12-17,S92000003,Total,4783352,Dose 1,7172,0.149936697,46908,0.980651225,12 years and over
+203,2020-12-17,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+204,2020-12-17,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+205,2020-12-17,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+206,2020-12-17,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+207,2020-12-17,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+208,2020-12-17,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+209,2020-12-17,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+210,2020-12-17,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+211,2020-12-18,S92000003,AstraZeneca (Vaxzevria),,Dose 1,22,,178,,All vaccinations
+212,2020-12-18,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+213,2020-12-18,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+214,2020-12-18,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+215,2020-12-18,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+216,2020-12-18,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+217,2020-12-18,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,8491,,55244,,All vaccinations
+218,2020-12-18,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+219,2020-12-18,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+220,2020-12-18,S92000003,Total,,Dose 1,8513,,55422,,All vaccinations
+221,2020-12-18,S92000003,Total,4439078,Dose 1,8505,0.19159384,55398,1.247961852,18 years and over
+222,2020-12-18,S92000003,Total,2875396,Dose 1,6267,0.217952588,38201,1.328547442,40 years and over
+223,2020-12-18,S92000003,Total,4783352,Dose 1,8513,0.177971431,55421,1.158622656,12 years and over
+224,2020-12-18,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+225,2020-12-18,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+226,2020-12-18,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+227,2020-12-18,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+228,2020-12-18,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+229,2020-12-18,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+230,2020-12-18,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+231,2020-12-18,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+232,2020-12-19,S92000003,AstraZeneca (Vaxzevria),,Dose 1,9,,187,,All vaccinations
+233,2020-12-19,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+234,2020-12-19,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+235,2020-12-19,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+236,2020-12-19,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+237,2020-12-19,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+238,2020-12-19,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,3371,,58615,,All vaccinations
+239,2020-12-19,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+240,2020-12-19,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+241,2020-12-19,S92000003,Total,,Dose 1,3380,,58802,,All vaccinations
+242,2020-12-19,S92000003,Total,4439078,Dose 1,3379,0.07611941,58777,1.324081262,18 years and over
+243,2020-12-19,S92000003,Total,2875396,Dose 1,2383,0.082875541,40584,1.411422983,40 years and over
+244,2020-12-19,S92000003,Total,4783352,Dose 1,3380,0.070661745,58801,1.229284401,12 years and over
+245,2020-12-19,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+246,2020-12-19,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+247,2020-12-19,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+248,2020-12-19,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+249,2020-12-19,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+250,2020-12-19,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+251,2020-12-19,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+252,2020-12-19,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+253,2020-12-20,S92000003,AstraZeneca (Vaxzevria),,Dose 1,13,,200,,All vaccinations
+254,2020-12-20,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+255,2020-12-20,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+256,2020-12-20,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+257,2020-12-20,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+258,2020-12-20,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+259,2020-12-20,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,2537,,61152,,All vaccinations
+260,2020-12-20,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+261,2020-12-20,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+262,2020-12-20,S92000003,Total,,Dose 1,2550,,61352,,All vaccinations
+263,2020-12-20,S92000003,Total,4439078,Dose 1,2548,0.057399307,61325,1.381480569,18 years and over
+264,2020-12-20,S92000003,Total,2875396,Dose 1,1829,0.06360863,42413,1.475031613,40 years and over
+265,2020-12-20,S92000003,Total,4783352,Dose 1,2550,0.053309896,61351,1.282594298,12 years and over
+266,2020-12-20,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+267,2020-12-20,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+268,2020-12-20,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+269,2020-12-20,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+270,2020-12-20,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+271,2020-12-20,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+272,2020-12-20,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+273,2020-12-20,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+274,2020-12-21,S92000003,AstraZeneca (Vaxzevria),,Dose 1,25,,225,,All vaccinations
+275,2020-12-21,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+276,2020-12-21,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+277,2020-12-21,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+278,2020-12-21,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+279,2020-12-21,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+280,2020-12-21,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,9600,,70752,,All vaccinations
+281,2020-12-21,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+282,2020-12-21,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+283,2020-12-21,S92000003,Total,,Dose 1,9625,,70977,,All vaccinations
+284,2020-12-21,S92000003,Total,4439078,Dose 1,9618,0.216666614,70943,1.598147183,18 years and over
+285,2020-12-21,S92000003,Total,2875396,Dose 1,6967,0.242297061,49380,1.717328674,40 years and over
+286,2020-12-21,S92000003,Total,4783352,Dose 1,9625,0.201218727,70976,1.483813025,12 years and over
+287,2020-12-21,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+288,2020-12-21,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+289,2020-12-21,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+290,2020-12-21,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+291,2020-12-21,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+292,2020-12-21,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+293,2020-12-21,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+294,2020-12-21,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+295,2020-12-22,S92000003,AstraZeneca (Vaxzevria),,Dose 1,19,,244,,All vaccinations
+296,2020-12-22,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+297,2020-12-22,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+298,2020-12-22,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+299,2020-12-22,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+300,2020-12-22,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+301,2020-12-22,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,11822,,82574,,All vaccinations
+302,2020-12-22,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+303,2020-12-22,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+304,2020-12-22,S92000003,Total,,Dose 1,11841,,82818,,All vaccinations
+305,2020-12-22,S92000003,Total,4439078,Dose 1,11839,0.266699526,82782,1.864846709,18 years and over
+306,2020-12-22,S92000003,Total,2875396,Dose 1,8738,0.303888577,58118,2.021217251,40 years and over
+307,2020-12-22,S92000003,Total,4783352,Dose 1,11841,0.247546072,82817,1.731359097,12 years and over
+308,2020-12-22,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+309,2020-12-22,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+310,2020-12-22,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+311,2020-12-22,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+312,2020-12-22,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+313,2020-12-22,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+314,2020-12-22,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+315,2020-12-22,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+316,2020-12-23,S92000003,AstraZeneca (Vaxzevria),,Dose 1,33,,277,,All vaccinations
+317,2020-12-23,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+318,2020-12-23,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+319,2020-12-23,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+320,2020-12-23,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+321,2020-12-23,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+322,2020-12-23,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,10161,,92735,,All vaccinations
+323,2020-12-23,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+324,2020-12-23,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+325,2020-12-23,S92000003,Total,,Dose 1,10194,,93012,,All vaccinations
+326,2020-12-23,S92000003,Total,4439078,Dose 1,10187,0.229484591,92969,2.0943313,18 years and over
+327,2020-12-23,S92000003,Total,2875396,Dose 1,7631,0.265389532,65749,2.286606784,40 years and over
+328,2020-12-23,S92000003,Total,4783352,Dose 1,10194,0.213114151,93011,1.944473248,12 years and over
+329,2020-12-23,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+330,2020-12-23,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+331,2020-12-23,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+332,2020-12-23,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+333,2020-12-23,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+334,2020-12-23,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+335,2020-12-23,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+336,2020-12-23,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+337,2020-12-24,S92000003,AstraZeneca (Vaxzevria),,Dose 1,9,,286,,All vaccinations
+338,2020-12-24,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+339,2020-12-24,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+340,2020-12-24,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+341,2020-12-24,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+342,2020-12-24,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+343,2020-12-24,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,2819,,95554,,All vaccinations
+344,2020-12-24,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+345,2020-12-24,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+346,2020-12-24,S92000003,Total,,Dose 1,2828,,95840,,All vaccinations
+347,2020-12-24,S92000003,Total,4439078,Dose 1,2825,0.063639341,95794,2.157970642,18 years and over
+348,2020-12-24,S92000003,Total,2875396,Dose 1,2195,0.076337311,67944,2.362944095,40 years and over
+349,2020-12-24,S92000003,Total,4783352,Dose 1,2828,0.059121721,95839,2.003594969,12 years and over
+350,2020-12-24,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+351,2020-12-24,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+352,2020-12-24,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+353,2020-12-24,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+354,2020-12-24,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+355,2020-12-24,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+356,2020-12-24,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+357,2020-12-24,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+358,2020-12-25,S92000003,AstraZeneca (Vaxzevria),,Dose 1,3,,289,,All vaccinations
+359,2020-12-25,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+360,2020-12-25,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+361,2020-12-25,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+362,2020-12-25,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+363,2020-12-25,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+364,2020-12-25,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,14,,95568,,All vaccinations
+365,2020-12-25,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+366,2020-12-25,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+367,2020-12-25,S92000003,Total,,Dose 1,17,,95857,,All vaccinations
+368,2020-12-25,S92000003,Total,4439078,Dose 1,17,0.000382962,95811,2.158353604,18 years and over
+369,2020-12-25,S92000003,Total,2875396,Dose 1,13,0.000452112,67957,2.363396207,40 years and over
+370,2020-12-25,S92000003,Total,4783352,Dose 1,17,0.000355399,95856,2.003950368,12 years and over
+371,2020-12-25,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+372,2020-12-25,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+373,2020-12-25,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+374,2020-12-25,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+375,2020-12-25,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+376,2020-12-25,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+377,2020-12-25,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+378,2020-12-25,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+379,2020-12-26,S92000003,AstraZeneca (Vaxzevria),,Dose 1,3,,292,,All vaccinations
+380,2020-12-26,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+381,2020-12-26,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+382,2020-12-26,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+383,2020-12-26,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+384,2020-12-26,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+385,2020-12-26,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,4,,95572,,All vaccinations
+386,2020-12-26,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+387,2020-12-26,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+388,2020-12-26,S92000003,Total,,Dose 1,7,,95864,,All vaccinations
+389,2020-12-26,S92000003,Total,4439078,Dose 1,7,0.00015769,95818,2.158511294,18 years and over
+390,2020-12-26,S92000003,Total,2875396,Dose 1,1,0.0000348,67958,2.363430985,40 years and over
+391,2020-12-26,S92000003,Total,4783352,Dose 1,7,0.000146341,95863,2.004096709,12 years and over
+392,2020-12-26,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+393,2020-12-26,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+394,2020-12-26,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+395,2020-12-26,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+396,2020-12-26,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+397,2020-12-26,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+398,2020-12-26,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+399,2020-12-26,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+400,2020-12-27,S92000003,AstraZeneca (Vaxzevria),,Dose 1,4,,296,,All vaccinations
+401,2020-12-27,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+402,2020-12-27,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+403,2020-12-27,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+404,2020-12-27,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+405,2020-12-27,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+406,2020-12-27,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,475,,96047,,All vaccinations
+407,2020-12-27,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,0,,0,,All vaccinations
+408,2020-12-27,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+409,2020-12-27,S92000003,Total,,Dose 1,479,,96343,,All vaccinations
+410,2020-12-27,S92000003,Total,4439078,Dose 1,479,0.010790529,96297,2.169301823,18 years and over
+411,2020-12-27,S92000003,Total,2875396,Dose 1,436,0.015163129,68394,2.378594114,40 years and over
+412,2020-12-27,S92000003,Total,4783352,Dose 1,479,0.010013898,96342,2.014110607,12 years and over
+413,2020-12-27,S92000003,Total,,Dose 2,0,,0,,All vaccinations
+414,2020-12-27,S92000003,Total,4439078,Dose 2,0,0,0,0,18 years and over
+415,2020-12-27,S92000003,Total,2875396,Dose 2,0,0,0,0,40 years and over
+416,2020-12-27,S92000003,Total,4783352,Dose 2,0,0,0,0,12 years and over
+417,2020-12-27,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+418,2020-12-27,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+419,2020-12-27,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+420,2020-12-27,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+421,2020-12-28,S92000003,AstraZeneca (Vaxzevria),,Dose 1,19,,315,,All vaccinations
+422,2020-12-28,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+423,2020-12-28,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+424,2020-12-28,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+425,2020-12-28,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+426,2020-12-28,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+427,2020-12-28,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,1733,,97780,,All vaccinations
+428,2020-12-28,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,1,,1,,All vaccinations
+429,2020-12-28,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+430,2020-12-28,S92000003,Total,,Dose 1,1752,,98095,,All vaccinations
+431,2020-12-28,S92000003,Total,4439078,Dose 1,1750,0.039422601,98047,2.208724424,18 years and over
+432,2020-12-28,S92000003,Total,2875396,Dose 1,1341,0.046637055,69735,2.425231168,40 years and over
+433,2020-12-28,S92000003,Total,4783352,Dose 1,1752,0.036627035,98094,2.050737642,12 years and over
+434,2020-12-28,S92000003,Total,,Dose 2,1,,1,,All vaccinations
+435,2020-12-28,S92000003,Total,4439078,Dose 2,1,0.0000225,1,0.0000225,18 years and over
+436,2020-12-28,S92000003,Total,2875396,Dose 2,1,0.0000348,1,0.0000348,40 years and over
+437,2020-12-28,S92000003,Total,4783352,Dose 2,1,0.0000209,1,0.0000209,12 years and over
+438,2020-12-28,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+439,2020-12-28,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+440,2020-12-28,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+441,2020-12-28,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+442,2020-12-29,S92000003,AstraZeneca (Vaxzevria),,Dose 1,10,,325,,All vaccinations
+443,2020-12-29,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+444,2020-12-29,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+445,2020-12-29,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+446,2020-12-29,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+447,2020-12-29,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+448,2020-12-29,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,7651,,105431,,All vaccinations
+449,2020-12-29,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,8,,9,,All vaccinations
+450,2020-12-29,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+451,2020-12-29,S92000003,Total,,Dose 1,7661,,105756,,All vaccinations
+452,2020-12-29,S92000003,Total,4439078,Dose 1,7657,0.172490774,105704,2.381215198,18 years and over
+453,2020-12-29,S92000003,Total,2875396,Dose 1,5601,0.194790561,75336,2.620021729,40 years and over
+454,2020-12-29,S92000003,Total,4783352,Dose 1,7661,0.160159654,105755,2.210897295,12 years and over
+455,2020-12-29,S92000003,Total,,Dose 2,8,,9,,All vaccinations
+456,2020-12-29,S92000003,Total,4439078,Dose 2,8,0.000180218,9,0.000202745,18 years and over
+457,2020-12-29,S92000003,Total,2875396,Dose 2,3,0.000104333,4,0.000139111,40 years and over
+458,2020-12-29,S92000003,Total,4783352,Dose 2,8,0.000167247,9,0.000188153,12 years and over
+459,2020-12-29,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+460,2020-12-29,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+461,2020-12-29,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+462,2020-12-29,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+463,2020-12-30,S92000003,AstraZeneca (Vaxzevria),,Dose 1,72,,397,,All vaccinations
+464,2020-12-30,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+465,2020-12-30,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+466,2020-12-30,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+467,2020-12-30,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+468,2020-12-30,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+469,2020-12-30,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,7680,,113111,,All vaccinations
+470,2020-12-30,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,24,,33,,All vaccinations
+471,2020-12-30,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+472,2020-12-30,S92000003,Total,,Dose 1,7752,,113508,,All vaccinations
+473,2020-12-30,S92000003,Total,4439078,Dose 1,7750,0.174585804,113454,2.555801002,18 years and over
+474,2020-12-30,S92000003,Total,2875396,Dose 1,5869,0.204111016,81205,2.824132746,40 years and over
+475,2020-12-30,S92000003,Total,4783352,Dose 1,7752,0.162062085,113507,2.372959381,12 years and over
+476,2020-12-30,S92000003,Total,,Dose 2,24,,33,,All vaccinations
+477,2020-12-30,S92000003,Total,4439078,Dose 2,24,0.000540653,33,0.000743398,18 years and over
+478,2020-12-30,S92000003,Total,2875396,Dose 2,21,0.000730334,25,0.000869445,40 years and over
+479,2020-12-30,S92000003,Total,4783352,Dose 2,24,0.00050174,33,0.000689893,12 years and over
+480,2020-12-30,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+481,2020-12-30,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+482,2020-12-30,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+483,2020-12-30,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
+484,2020-12-31,S92000003,AstraZeneca (Vaxzevria),,Dose 1,16,,413,,All vaccinations
+485,2020-12-31,S92000003,AstraZeneca (Vaxzevria),,Dose 2,0,,0,,All vaccinations
+486,2020-12-31,S92000003,AstraZeneca (Vaxzevria),,Dose 3,0,,0,,All vaccinations
+487,2020-12-31,S92000003,Moderna (Spikevax),,Dose 1,0,,0,,All vaccinations
+488,2020-12-31,S92000003,Moderna (Spikevax),,Dose 2,0,,0,,All vaccinations
+489,2020-12-31,S92000003,Moderna (Spikevax),,Dose 3,0,,0,,All vaccinations
+490,2020-12-31,S92000003,Pfizer BioNTech (Comirnaty),,Dose 1,4222,,117333,,All vaccinations
+491,2020-12-31,S92000003,Pfizer BioNTech (Comirnaty),,Dose 2,11,,44,,All vaccinations
+492,2020-12-31,S92000003,Pfizer BioNTech (Comirnaty),,Dose 3,0,,0,,All vaccinations
+493,2020-12-31,S92000003,Total,,Dose 1,4238,,117746,,All vaccinations
+494,2020-12-31,S92000003,Total,4439078,Dose 1,4233,0.09535764,117687,2.651158642,18 years and over
+495,2020-12-31,S92000003,Total,2875396,Dose 1,3259,0.11334091,84464,2.937473656,40 years and over
+496,2020-12-31,S92000003,Total,4783352,Dose 1,4238,0.088598957,117745,2.461558338,12 years and over
+497,2020-12-31,S92000003,Total,,Dose 2,11,,44,,All vaccinations
+498,2020-12-31,S92000003,Total,4439078,Dose 2,11,0.000247799,44,0.000991197,18 years and over
+499,2020-12-31,S92000003,Total,2875396,Dose 2,11,0.000382556,36,0.001252001,40 years and over
+500,2020-12-31,S92000003,Total,4783352,Dose 2,11,0.000229964,44,0.000919857,12 years and over
+501,2020-12-31,S92000003,Total,,Dose 3,0,,0,,All vaccinations
+502,2020-12-31,S92000003,Total,4439078,Dose 3,0,0,0,0,18 years and over
+503,2020-12-31,S92000003,Total,2875396,Dose 3,0,0,0,0,40 years and over
+504,2020-12-31,S92000003,Total,4783352,Dose 3,0,0,0,0,12 years and over
