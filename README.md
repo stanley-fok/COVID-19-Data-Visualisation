@@ -33,6 +33,9 @@ Summary of insights
 • Strategic Peaks: The high vaccination numbers before and after the holidays may reflect strategic planning by health authorities to maximize coverage. Understanding such patterns can help optimize resource allocation in future vaccination campaigns.
 
 
+
+
+
 Recommendations & Succeeding Steps
 
 • Investigate potential external factors such as weather conditions, vaccine supply, and public sentiment to understand their influence on vaccination rates.
