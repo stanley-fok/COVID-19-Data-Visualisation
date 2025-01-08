@@ -23,10 +23,15 @@ https://www.gov.scot/publications/coronavirus-covid-19-data-for-scotland/
 Summary of insights  
 
 • Peak of the Pandemic: Both the highest active cases and deaths were recorded on 2020-07-31, indicating this was a critical point in the pandemic's timeline.
-• Sustained High Numbers: The minimal variation in active cases and deaths across the top dates suggests that the region experienced sustained pressure on healthcare systems over this period.
+
+• Consistent High Levels: The small changes in active cases and deaths during the top dates indicate that the healthcare system faced continuous strain over this period.
+
 • Increasing Trend in Active Cases: The steady rise in active cases from mid-July to the end of the month indicates a potential delay in response measures or the impact of external factors such as new variants, easing restrictions, or delayed vaccination rollouts.
+
 • Holiday Impact: A significant drop in vaccinations was observed during the Christmas holidays, suggesting the need to plan for continuity of healthcare services during festive seasons.
+
 • Strategic Peaks: The high vaccination numbers before and after the holidays may reflect strategic planning by health authorities to maximize coverage. Understanding such patterns can help optimize resource allocation in future vaccination campaigns.
+
 
 Recommendations & Succeeding Steps
 
