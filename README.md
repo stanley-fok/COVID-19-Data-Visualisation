@@ -5,8 +5,8 @@ Analyse COVID-19 data in Scotland during 2020 to identify key trends and pattern
 
 # Data Source: 
 https://github.com/tomwhite/covid-19-uk-data/tree/master/data
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 https://www.gov.scot/publications/coronavirus-covid-19-data-for-scotland/
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
 ## Analysing COVID-19 trends from 2020 in Scotland. Below are graphs captured from the datasets collected from Kaggle and Git Hub.
 ![image alt](https://github.com/stanley-fok/COVID-19-Data-Visualisation/blob/a905f2ccdd63c124c184acb48d2c959eb57b29dd/1.png)
@@ -34,8 +34,6 @@ Summary of insights
 
 
 
-
-
 Recommendations & Succeeding Steps
 
 • Investigate potential external factors such as weather conditions, vaccine supply, and public sentiment to understand their influence on vaccination rates.
@@ -51,3 +49,11 @@ Recommendations & Succeeding Steps
 • Target Underperforming Regions/Demographics: Focus outreach on underserved groups or areas, addressing barriers such as misinformation or accessibility.
 
 • Improve Data Tracking: Enhance real-time data monitoring for better insights and quicker strategy adjustments.
+
+
+
+##
+
+##
+![image alt](https://github.com/stanley-fok/COVID-19-Data-Visualisation/blob/586058514523c492dd205b9d488399e25d171526/img4.png)
+
