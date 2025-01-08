@@ -20,7 +20,7 @@ https://www.gov.scot/publications/coronavirus-covid-19-data-for-scotland/
 ![image alt](https://github.com/stanley-fok/COVID-19-Data-Visualisation/blob/01525830dbe5057412dd31587341de74f969e653/5.png)
 
 
-##Summary of insights  
+Summary of insights  
 
 • Peak of the Pandemic: Both the highest active cases and deaths were recorded on 2020-07-31, indicating this was a critical point in the pandemic's timeline.
 • Sustained High Numbers: The minimal variation in active cases and deaths across the top dates suggests that the region experienced sustained pressure on healthcare systems over this period.
@@ -28,7 +28,7 @@ https://www.gov.scot/publications/coronavirus-covid-19-data-for-scotland/
 • Holiday Impact: A significant drop in vaccinations was observed during the Christmas holidays, suggesting the need to plan for continuity of healthcare services during festive seasons.
 • Strategic Peaks: The high vaccination numbers before and after the holidays may reflect strategic planning by health authorities to maximize coverage. Understanding such patterns can help optimize resource allocation in future vaccination campaigns.
 
-##Recommendations & Succeeding Steps
+Recommendations & Succeeding Steps
 
 • Investigate potential external factors such as weather conditions, vaccine supply, and public sentiment to understand their influence on vaccination rates.
 • Examine the impact of local or regional policies during the study period to identify correlations between governmental actions and vaccination uptake.
