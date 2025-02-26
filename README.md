@@ -52,14 +52,13 @@ Recommendations & Succeeding Steps
 
 
 
-##
+# Research Task:
+Analyze COVID-19 trends on a global scale by examining confirmed cases, death tolls, and recovery rates across different countries. Identify key trends and patterns in virus spread, the correlation between case severity and mortality, and recovery statistics. Additionally, explore the potential effects of government policies, vaccination rollouts, and external factors on the pandemic’s progression.
+
 
 ##
 ![image alt](https://github.com/stanley-fok/COVID-19-Data-Visualisation/blob/586058514523c492dd205b9d488399e25d171526/img4.png)
 
-
-Research Task:
-Analyze COVID-19 trends on a global scale by examining confirmed cases, death tolls, and recovery rates across different countries. Identify key trends and patterns in virus spread, the correlation between case severity and mortality, and recovery statistics. Additionally, explore the potential effects of government policies, vaccination rollouts, and external factors on the pandemic’s progression.
 
 Summary of insights
 
