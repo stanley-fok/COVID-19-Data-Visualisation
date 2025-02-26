@@ -57,3 +57,27 @@ Recommendations & Succeeding Steps
 ##
 ![image alt](https://github.com/stanley-fok/COVID-19-Data-Visualisation/blob/586058514523c492dd205b9d488399e25d171526/img4.png)
 
+
+Research Task:
+Analyze COVID-19 trends on a global scale by examining confirmed cases, death tolls, and recovery rates across different countries. Identify key trends and patterns in virus spread, the correlation between case severity and mortality, and recovery statistics. Additionally, explore the potential effects of government policies, vaccination rollouts, and external factors on the pandemic’s progression.
+
+Summary of insights
+
+• Global Impact: The US, Brazil, and India had the highest cases, while the US, Brazil, Italy, and the UK reported the most deaths, highlighting healthcare and policy differences.
+
+• Trends & Patterns: Peak infections varied by country, and death rates didn’t always correlate with case numbers, indicating factors like healthcare quality and interventions.
+
+• Vaccination & Recovery: High vaccination rates improved recovery and reduced severe cases over time.
+
+• Policy & Public Response: Early lockdowns, strong healthcare systems, and public compliance significantly affected virus control.
+
+
+Recommendations & Succeeding Steps
+
+• Study how policies and vaccines influenced case trends.
+
+• Analyze economic and healthcare disparities in recovery rates.
+
+• Investigate external factors like climate and mobility on virus spread.
+
+• Enhance real-time data tracking for better pandemic preparedness.
