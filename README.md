@@ -75,7 +75,7 @@ Recommendations & Succeeding Steps
 
 • Study how policies and vaccines influenced case trends.
 
-• Analyze economic and healthcare disparities in recovery rates.
+• Analyse economic and healthcare disparities in recovery rates.
 
 • Investigate external factors like climate and mobility on virus spread.
 
